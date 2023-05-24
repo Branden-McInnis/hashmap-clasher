@@ -5,7 +5,6 @@
 //It then hashes some keys and displays the linked lists again
 //It uses the generic LinkedList class and the generic Node class
 
-//MODIFY THIS PROGRAM TO DO EXERCISE 1
 import java.util.*;
 
 public class HashTableExperiment
